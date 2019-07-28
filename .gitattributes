@@ -1,0 +1,5 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.doc filter=lfs diff=lfs merge=lfs -text
+*.ppt filter=lfs diff=lfs merge=lfs -text
+*.excl filter=lfs diff=lfs merge=lfs -text
